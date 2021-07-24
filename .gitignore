@@ -1,0 +1,11 @@
+.DS_Store
+local-maven-repo
+build
+classes
+target
+.idea
+*/lombokjar/*
+*.xml
+*/lombokystaticconstructor.xml
+*/lombokystaticconstructor.properties
+*.iml
